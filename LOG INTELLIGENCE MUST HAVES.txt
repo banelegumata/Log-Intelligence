@@ -1,0 +1,5 @@
+LOG INTELLIGENCE MUST HAVES
+
+
+How to access H2 database 
+	http://localhost:8881/h2-console
