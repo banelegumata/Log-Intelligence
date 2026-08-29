@@ -35,3 +35,7 @@ build/
 ### Logs ###
 logs/
 *.log
+
+### H2 Database ###
+database/*.mv.db
+database/*.trace.db
