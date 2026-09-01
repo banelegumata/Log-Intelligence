@@ -13,8 +13,6 @@ public class LogIntelligenceToolApplication {
     private static final Logger log = LogManager.getLogger(LogIntelligenceToolApplication.class);
 	public static void main(String[] args) {
 		SpringApplication.run(LogIntelligenceToolApplication.class, args);
-
         log.info("Log Intelligence Tool Started");
 	}
-
 }

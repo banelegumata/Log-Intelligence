@@ -4,6 +4,8 @@ public enum AuditAction {
     LOGIN,
     LOGOUT,
 
+    FILE_UPLOAD,
+
     SEARCH_TRACE,
     SEARCH_UCN,
     SEARCH_MSISDN,

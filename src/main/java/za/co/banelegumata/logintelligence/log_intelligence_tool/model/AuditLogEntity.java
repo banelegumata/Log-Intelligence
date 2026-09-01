@@ -23,7 +23,7 @@ public class AuditLogEntity {
 
     private String details;
 
-    private String severName;
+    private String serverName;
 
     private String status;
 
